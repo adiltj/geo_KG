@@ -1,0 +1,142 @@
+[2023-08-23 16:46:35] - INFO: 成功导入BERT配置文件 E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\config.json
+[2023-08-23 16:46:35] - INFO:  ### 将当前配置打印到日志文件中 
+[2023-08-23 16:46:36] - INFO: ## 注意，正在使用本地MyTransformer中的MyMultiHeadAttention实现，如需使用torch框架中的MultiHeadAttention模块可通过config.__dict__['use_torch_multi_head'] = True实现
+[2023-08-23 16:46:38] - INFO: ## 成功载入已有模型，进行预测......
+[2023-08-23 16:46:38] - INFO: Model name 'E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese' is a path or url to a directory containing tokenizer files.
+[2023-08-23 16:46:38] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\added_tokens.json. We won't load it.
+[2023-08-23 16:46:38] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\special_tokens_map.json. We won't load it.
+[2023-08-23 16:46:38] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\tokenizer_config.json. We won't load it.
+[2023-08-23 16:46:38] - INFO: loading file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\vocab.txt
+[2023-08-23 16:46:38] - INFO: loading file None
+[2023-08-23 16:46:38] - INFO: loading file None
+[2023-08-23 16:46:38] - INFO: loading file None
+[2023-08-23 17:04:30] - INFO: 成功导入BERT配置文件 E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\config.json
+[2023-08-23 17:04:30] - INFO:  ### 将当前配置打印到日志文件中 
+[2023-08-23 17:04:31] - INFO: ## 注意，正在使用本地MyTransformer中的MyMultiHeadAttention实现，如需使用torch框架中的MultiHeadAttention模块可通过config.__dict__['use_torch_multi_head'] = True实现
+[2023-08-23 17:04:32] - INFO: ## 成功载入已有模型，进行预测......
+[2023-08-23 17:04:32] - INFO: Model name 'E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese' is a path or url to a directory containing tokenizer files.
+[2023-08-23 17:04:32] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\added_tokens.json. We won't load it.
+[2023-08-23 17:04:32] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\special_tokens_map.json. We won't load it.
+[2023-08-23 17:04:32] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\tokenizer_config.json. We won't load it.
+[2023-08-23 17:04:32] - INFO: loading file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\vocab.txt
+[2023-08-23 17:04:32] - INFO: loading file None
+[2023-08-23 17:04:32] - INFO: loading file None
+[2023-08-23 17:04:32] - INFO: loading file None
+[2023-08-23 17:04:46] - INFO: Model name 'pretrained_bert_models/bert-base-chinese/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/bert-base-chinese/' is a path or url to a directory containing tokenizer files.
+[2023-08-23 17:04:46] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/added_tokens.json. We won't load it.
+[2023-08-23 17:04:46] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/special_tokens_map.json. We won't load it.
+[2023-08-23 17:04:46] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/tokenizer_config.json. We won't load it.
+[2023-08-23 17:04:46] - INFO: loading file pretrained_bert_models/bert-base-chinese/vocab.txt
+[2023-08-23 17:04:46] - INFO: loading file None
+[2023-08-23 17:04:46] - INFO: loading file None
+[2023-08-23 17:04:46] - INFO: loading file None
+[2023-08-23 17:04:47] - INFO: --------Dataset Build!--------
+[2023-08-23 17:04:47] - INFO: --------Get Data-loader!--------
+[2023-08-23 17:04:47] - INFO: loading configuration file E:\pythonProject\pytorch\ExtractInfo/experiments/clue/config.json
+[2023-08-23 17:04:47] - INFO: Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "directionality": "bidi",
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "is_decoder": false,
+  "layer_norm_eps": 1e-12,
+  "lstm_dropout_prob": 0.5,
+  "lstm_embedding_size": 768,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 27,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "output_past": true,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "use_bfloat16": false,
+  "vocab_size": 21128
+}
+
+[2023-08-23 17:04:47] - INFO: loading weights file E:\pythonProject\pytorch\ExtractInfo/experiments/clue/pytorch_model.bin
+[2023-08-23 17:04:50] - INFO: --------Load model from E:\pythonProject\pytorch\ExtractInfo/experiments/clue/--------
+[2023-08-23 17:04:50] - INFO: Model name 'pretrained_bert_models/bert-base-chinese/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/bert-base-chinese/' is a path or url to a directory containing tokenizer files.
+[2023-08-23 17:04:50] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/added_tokens.json. We won't load it.
+[2023-08-23 17:04:50] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/special_tokens_map.json. We won't load it.
+[2023-08-23 17:04:50] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/tokenizer_config.json. We won't load it.
+[2023-08-23 17:04:50] - INFO: loading file pretrained_bert_models/bert-base-chinese/vocab.txt
+[2023-08-23 17:04:50] - INFO: loading file None
+[2023-08-23 17:04:50] - INFO: loading file None
+[2023-08-23 17:04:50] - INFO: loading file None
+[2023-08-23 17:07:06] - INFO: 成功导入BERT配置文件 E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\config.json
+[2023-08-23 17:07:06] - INFO:  ### 将当前配置打印到日志文件中 
+[2023-08-23 17:07:07] - INFO: ## 注意，正在使用本地MyTransformer中的MyMultiHeadAttention实现，如需使用torch框架中的MultiHeadAttention模块可通过config.__dict__['use_torch_multi_head'] = True实现
+[2023-08-23 17:07:09] - INFO: ## 成功载入已有模型，进行预测......
+[2023-08-23 17:07:09] - INFO: Model name 'E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese' is a path or url to a directory containing tokenizer files.
+[2023-08-23 17:07:09] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\added_tokens.json. We won't load it.
+[2023-08-23 17:07:09] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\special_tokens_map.json. We won't load it.
+[2023-08-23 17:07:09] - INFO: Didn't find file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\tokenizer_config.json. We won't load it.
+[2023-08-23 17:07:09] - INFO: loading file E:\pythonProject\pytorch\ExtractInfo\bert_base_chinese\vocab.txt
+[2023-08-23 17:07:09] - INFO: loading file None
+[2023-08-23 17:07:09] - INFO: loading file None
+[2023-08-23 17:07:09] - INFO: loading file None
+[2023-08-23 17:07:16] - INFO: Model name 'pretrained_bert_models/bert-base-chinese/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/bert-base-chinese/' is a path or url to a directory containing tokenizer files.
+[2023-08-23 17:07:16] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/added_tokens.json. We won't load it.
+[2023-08-23 17:07:16] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/special_tokens_map.json. We won't load it.
+[2023-08-23 17:07:16] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/tokenizer_config.json. We won't load it.
+[2023-08-23 17:07:16] - INFO: loading file pretrained_bert_models/bert-base-chinese/vocab.txt
+[2023-08-23 17:07:16] - INFO: loading file None
+[2023-08-23 17:07:16] - INFO: loading file None
+[2023-08-23 17:07:16] - INFO: loading file None
+[2023-08-23 17:07:16] - INFO: --------Dataset Build!--------
+[2023-08-23 17:07:16] - INFO: --------Get Data-loader!--------
+[2023-08-23 17:07:16] - INFO: loading configuration file E:\pythonProject\pytorch\ExtractInfo/experiments/clue/config.json
+[2023-08-23 17:07:16] - INFO: Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "directionality": "bidi",
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "is_decoder": false,
+  "layer_norm_eps": 1e-12,
+  "lstm_dropout_prob": 0.5,
+  "lstm_embedding_size": 768,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_labels": 27,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "output_past": true,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "pruned_heads": {},
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "use_bfloat16": false,
+  "vocab_size": 21128
+}
+
+[2023-08-23 17:07:16] - INFO: loading weights file E:\pythonProject\pytorch\ExtractInfo/experiments/clue/pytorch_model.bin
+[2023-08-23 17:07:17] - INFO: --------Load model from E:\pythonProject\pytorch\ExtractInfo/experiments/clue/--------
+[2023-08-23 17:07:17] - INFO: Model name 'pretrained_bert_models/bert-base-chinese/' not found in model shortcut name list (bert-base-uncased, bert-large-uncased, bert-base-cased, bert-large-cased, bert-base-multilingual-uncased, bert-base-multilingual-cased, bert-base-chinese, bert-base-german-cased, bert-large-uncased-whole-word-masking, bert-large-cased-whole-word-masking, bert-large-uncased-whole-word-masking-finetuned-squad, bert-large-cased-whole-word-masking-finetuned-squad, bert-base-cased-finetuned-mrpc, bert-base-german-dbmdz-cased, bert-base-german-dbmdz-uncased). Assuming 'pretrained_bert_models/bert-base-chinese/' is a path or url to a directory containing tokenizer files.
+[2023-08-23 17:07:17] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/added_tokens.json. We won't load it.
+[2023-08-23 17:07:17] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/special_tokens_map.json. We won't load it.
+[2023-08-23 17:07:17] - INFO: Didn't find file pretrained_bert_models/bert-base-chinese/tokenizer_config.json. We won't load it.
+[2023-08-23 17:07:17] - INFO: loading file pretrained_bert_models/bert-base-chinese/vocab.txt
+[2023-08-23 17:07:17] - INFO: loading file None
+[2023-08-23 17:07:17] - INFO: loading file None
+[2023-08-23 17:07:17] - INFO: loading file None

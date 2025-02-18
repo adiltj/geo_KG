@@ -1,0 +1,3 @@
+from .BertForSentenceClassification import BertForSentenceClassification
+from .BertForNSPAndMLM import BertForPretrainingModel
+from .modelBert import BertNER
